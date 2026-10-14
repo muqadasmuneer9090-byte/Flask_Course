@@ -1,2 +1,2 @@
-# Frist Repository
-this is my frist Git repository
+# Flask Tutorial
+I am learning Flask
