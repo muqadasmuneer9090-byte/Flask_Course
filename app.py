@@ -1,10 +1,7 @@
-from flask import Flask
-
-app = Flask(__name__)
-
-@app.route("/")
-def home():
-    return "Hello Flask"
-
-if __name__ == "__main__":
-    app.run(debug=True)
+folder name: Flask_framework 
+1: venv
+2: static
+3: tamplates
+4: .gitignore
+5: requrements.txt
+6: app.py
